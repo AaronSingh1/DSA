@@ -1,0 +1,1 @@
+Space optimization using bit manipulations
